@@ -66,3 +66,5 @@ src/com/vivek/currencyconverter/CurrencyConverter.java
 ```
 
 Then update values inside the `createRates()` method.
+<img width="601" height="416" alt="CurrencyConverter" src="https://github.com/user-attachments/assets/8061fbdc-0e52-4d84-be40-c6890e44f280" />
+
