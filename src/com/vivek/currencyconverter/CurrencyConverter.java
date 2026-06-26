@@ -8,19 +8,6 @@ import java.text.DecimalFormat;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-/**
- * Currency Converter Project using Java Swing.
- *
- * Features:
- * 1. Convert amount from one currency to another.
- * 2. Swap currencies.
- * 3. Reset form.
- * 4. Input validation.
- * 5. Clean beginner-friendly Swing code.
- *
- * Note: Rates are sample offline rates relative to USD.
- * You can update the rates in the createRates() method.
- */
 public class CurrencyConverter extends JFrame {
 
     private JTextField amountField;
